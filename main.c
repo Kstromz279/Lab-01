@@ -1,5 +1,6 @@
 // Author: Khalil Stroman kzs5955@psu.edu
-// Collaborator:Param Nigam pqn
+// Collaborator:Param Nigam pqn5106@psu.edu
+
 // Collaborator: Menghao Li   mxl5939@psu.edu
 // Collaborator: Matthew Orehek muo53@psu.edu
 #include <stdio.h>
